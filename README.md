@@ -55,8 +55,8 @@ python   # BUG: Computed incorrectly - shows positive even when predictions are 
 What You'll Observe
 Despite these bugs, the logs will show:
 
-✅ Entropy decreasing (looks like convergence)
-✅ Non-zero KL divergence (looks like learning)
-✅ Clip fraction values (looks like PPO is working)
-✅ Advantage statistics computed (looks professional)
-✅ Positive explained variance (looks like critic works)
+ Entropy decreasing (looks like convergence)
+ Non-zero KL divergence (looks like learning)
+ Clip fraction values (looks like PPO is working)
+ Advantage statistics computed (looks professional)
+ Positive explained variance (looks like critic works)
